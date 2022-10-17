@@ -37,7 +37,7 @@
 						<form action="#">
       							<input type="text" placeholder="Search by Teams ,Member Or Entry Title" name="search"><input type="reset" value="✗" id="clear">
       							<button type="submit">Search</button>
-    					</form>
+    						</form>
   					</div>
 				</div>
 				<div class="col-md-5 section-profile">
