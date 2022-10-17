@@ -13,24 +13,23 @@
   <script src="script.js"></script>
 </head>
 <body>
-
 	<section class="header">
 		<div class="header-top">
-		<div class="topnav">
-		<a href="javascript:void(0);" onclick="myFunction()">
-			<div class="top-menu">Menu</div></a>
-  			<div id="myLinks">
-    			<a href="#">Create New Entry</a>
-    			<a href="#">My Topic Boxes</a>
-    			<a href="#">Friends</a>
-    			<a href="#">Invite New Friend</a>
-    			<a href="#">Video Tutorial</a>
-    			<a href="#">Search</a>
-    			<a href="#">Setting</a>
-    			<a href="#">Log Out</a>
-  		</div>	
-  	</div>
-	</div>
+			<div class="topnav">
+				<a href="javascript:void(0);" onclick="myFunction()">
+					<div class="top-menu">Menu</div></a>
+				<div id="myLinks">
+					<a href="#">Create New Entry</a>
+					<a href="#">My Topic Boxes</a>
+    					<a href="#">Friends</a>
+    					<a href="#">Invite New Friend</a>
+    					<a href="#">Video Tutorial</a>
+    					<a href="#">Search</a>
+    					<a href="#">Setting</a>
+    					<a href="#">Log Out</a>
+				</div>	
+			</div>
+		</div>
 		<div class="container ">
 			<div class="row header-container">
 				<div class="col-md-7">
