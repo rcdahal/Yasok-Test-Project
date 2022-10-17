@@ -326,7 +326,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-10 footer-first-column">
-				<ul class="nav-menu">
+					<ul class="nav-menu">
 						<li class="nav-menu-list">About Us </li>
 						<li class="nav-menu-list">Contact Us</li>
 						<li class="nav-menu-list">Terms of Use</li>
@@ -340,7 +340,5 @@
 			</div>
 		</div>
 	</section>
-
-
 </body>
 </html>
