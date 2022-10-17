@@ -41,9 +41,9 @@
   					</div>
 				</div>
 				<div class="col-md-5 section-profile">
-						<div class="col-sm-12">
-							<span class="profile-section">Joe Burros</span>
-						</div>
+					<div class="col-sm-12">
+						<span class="profile-section">Joe Burros</span>
+					</div>
 					<div class="nav">
 						<ul class="profile-details">
 							<li class="profile">Home </li>
@@ -54,7 +54,6 @@
 				</div>
 			</div>
 		</div>
-	
 	</section>
 	<section class="description">
 		<div class="header-below-content">
@@ -90,9 +89,9 @@
 				<div class="col-md-2 col-sm-2 left-sidebar">
 					<div class="recent-searches">
 						<div class="right-sidebar-content" >
-					<p style="color:white;font-size:16px;">Recent Serches</p>
+							<p style="color:white;font-size:16px;">Recent Serches</p>
 
-				</div>
+						</div>
 						<div class="row" style="padding:10px 10px 1px;">
 							<div class="col-md-10 col-sm-10">
 								<p style="font-size:12px;font-weight:bold;">Recent Serches</p>
@@ -114,13 +113,19 @@
 					</div>
 					<div class="recent-searches">
 						<div class="right-sidebar-content" >
-					<p style="color:white;font-size:16px;">Recent Serches</p>
-
-				</div>
+							<p style="color:white;font-size:16px;">Recent Serches</p>
+						</div>
 						<div class="row" style="padding:10px 10px 1px;">
 							<div class="col-md-10 col-sm-10">
 								<p style="font-size:12px;font-weight:bold;">Recent Serches</p>
-
+							</div>
+							<div class="col-md-2 col-sm-2" style="right:0">
+								<i class="fas fa-cloud"></i>
+							</div>
+						</div>
+						<div class="row" style="padding:5px 10px 1px;">
+							<div class="col-md-10 col-sm-10">
+								<p style="font-size:12px;font-weight:bold;">Recent Serches</p>
 							</div>
 							<div class="col-md-2 col-sm-2" style="right:0">
 								<i class="fas fa-cloud"></i>
@@ -131,18 +136,11 @@
 								<p style="font-size:12px;font-weight:bold;">Recent Serches</p>
 
 							</div>
-							<div class="col-md-2 col-sm-2" style="right:0">
-								<i class="fas fa-cloud"></i>
-							</div>
-						</div><div class="row" style="padding:5px 10px 1px;">
-							<div class="col-md-10 col-sm-10">
-								<p style="font-size:12px;font-weight:bold;">Recent Serches</p>
-
-							</div>
 							<div class="col-md-2" style="right:0">
 								<i class="fas fa-cloud"></i>
 							</div>
-						</div><div class="row" style="padding:5px 10px 1px;">
+						</div>
+						<div class="row" style="padding:5px 10px 1px;">
 							<div class="col-md-10">
 								<p style="font-size:12px;font-weight:bold;">Recent Serches</p>
 
@@ -150,7 +148,8 @@
 							<div class="col-md-2" style="right:0">
 								<i class="fas fa-cloud"></i>
 							</div>
-						</div><div class="row" style="padding:5px 10px 1px;">
+						</div>
+						<div class="row" style="padding:5px 10px 1px;">
 							<div class="col-md-10">
 								<p style="font-size:12px;font-weight:bold;">Recent Serches</p>
 
@@ -158,7 +157,8 @@
 							<div class="col-md-2" style="right:0">
 								<i class="fas fa-cloud"></i>
 							</div>
-						</div><div class="row" style="padding:5px 10px 1px;">
+						</div>
+						<div class="row" style="padding:5px 10px 1px;">
 							<div class="col-md-10">
 								<p style="font-size:12px;font-weight:bold;">Recent Serches</p>
 
@@ -172,7 +172,6 @@
 				<div class="col-md-8">
 					<div class="entries-section" style="margin:0 20px;">
 						<h2 style="font-size:32px;">Entries</h2>
-					
 					<div class="row">
 						<div class="col-sm-6 entries-section-all">
 							<span style="font-size:18px;">All Entries</span>
@@ -295,8 +294,6 @@
 					</div>
 					</div>
 				</div>
-					
-
 					</div>
 					
 					
