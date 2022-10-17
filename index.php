@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
   <title>Project</title>
-  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -180,6 +179,30 @@
 							<span style="font-size:18px;margin-left:1px;">Subscribed</span>
 						</div>
 					</div>
+					<!--
+					<div class="row" style="background-color:#f2f2f2;margin-top:30px;">
+						<div class="active" style="width:25%;text-align:center;" >
+							<div style="margin:50px;background-color:#dddddd;padding:10px; border-radius:20px 20px 0 0;">
+								<span style="font-size:18px;">All Members</span>
+							</div>
+						</div>
+						<div class="" style="width:25%;text-align:center;">
+							<div style="margin:50px;background-color:#dddddd;padding:10px;border-radius:20px 20px 0 0;">
+								<span style="font-size:18px;">Friends</span>
+							</div>
+						</div>
+						<div class="" style="width:25%;text-align:center;">
+							<div style="margin:50px;background-color:#dddddd;padding:10px;border-radius:20px 20px 0 0">
+								<span style="font-size:18px;">New Entry</span>
+							</div>
+						</div>
+						<div class="" style="width:25%;text-align:center;">
+							<div style="margin:50px;background-color:#dddddd;padding:10px;border-radius:20px 20px 0 0">
+								<span style="font-size:18px;">New Comment</span>
+							</div>	
+						</div>
+					</div>	
+					-->
 					<div class="row main-entries-section">
 						<ul class="all-entries-list">
 							<li class="active">All Members </li>
