@@ -318,7 +318,7 @@
 						<li class="right-sidebar-content-list">Invite New Friends</li>
 						<li class="right-sidebar-content-list">Invite New Friends</li>
 						<li class="right-sidebar-content-list">Invite New Friends</li>
-					</ul>
+				</ul>
 			</div>
 		</div>
 	</section>
@@ -338,8 +338,6 @@
 					<span class="copywrite">©2022</span>
 				</div>
 			</div>
-			</div>
-			
 		</div>
 	</section>
 
