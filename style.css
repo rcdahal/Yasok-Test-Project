@@ -186,7 +186,7 @@ ul{
 	margin:0;
 }
 .image-box-section{
-	margin:20px 0px;
+	margin:20px 0px 0px;
 	padding-bottom:20px;
 	border-bottom:1px solid #d8d8d8;
 }
@@ -198,6 +198,7 @@ ul{
 .footer{
 	background-color:#867979;
 	padding:10px;
+	margin-top:20px
 }
 ul.nav-menu{
 	align-items:center;
