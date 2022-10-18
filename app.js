@@ -45,3 +45,12 @@ function fetchData(){
 	});
 }
 fetchData();
+//to make main entries section dynamic
+$(document).ready(function(){
+    $('.main-entries-section li').click(function(){
+        $('li.ram').css('background-color','#dddddd');
+         $('li.ram').css('color','black');
+        $(this).css('background-color', '#2ec0db');
+        $(this).css('color', 'white');
+    });
+});
