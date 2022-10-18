@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="style.css">
   <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
   <script src="script.js"></script>
+  <script src="app.js"></script>
 </head>
 <body>
 	<section class="header">
