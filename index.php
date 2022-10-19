@@ -206,7 +206,7 @@
 					-->
 					<div class="row main-entries-section">
 						<ul class="all-entries-list">
-							<li class="active">All Members </li>
+							<li class="ram active">All Members </li>
 							<li class="ram">Friends</li>
 							<li class="ram">New Entry</li>
 							<li class="ram">New Comment</li>
