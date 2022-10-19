@@ -3,24 +3,28 @@
        "id" : "0",
        "name" : "Alan Coe",
        "title": "In publishing and graphic design, Lorem ipsum is a placeholder",
+	"image": "ram.jpg",
        "status" : 0
 	},
    {
-   		"id" : "1",
+   	"id" : "1",
        "name" : "Mary Pilot",
        "title": "In publishing and graphic design, Lorem ipsum is a placeholder",
+	"image": "ram.jpg",
        "status" : 2
    },
    {
-   		"id" : "2",
+   	"id" : "2",
        "name" : "Alan Coe",
        "title": "In publishing and graphic design, Lorem ipsum is a placeholder",
+	"image": "ram.jpg",
        "status" : 1
    },
    {
-   		"id" : "2",
+   	"id" : "3",
        "name" : "Alan Coe",
        "title": "In publishing and graphic design, Lorem ipsum is a placeholder",
+	"image": "ram.jpg",
        "status" : 0
    }
 ]
